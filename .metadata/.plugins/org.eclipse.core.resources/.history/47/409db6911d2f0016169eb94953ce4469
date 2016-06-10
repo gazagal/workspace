@@ -1,0 +1,21 @@
+/**
+ * 
+ */
+package cl.curso.java.builder;
+
+/**
+ * @author Gabriel Zagal
+ *
+ */
+public class BuilderAutoToyota extends BuilderAuto {
+
+	/* (non-Javadoc)
+	 * @see cl.curso.java.builder.BuilderAuto#construir()
+	 */
+	@Override
+	public Auto construir() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

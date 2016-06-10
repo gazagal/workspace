@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package cl.curso.java.builder;
+
+/**
+ * @author Gabriel Zagal
+ *
+ */
+public class Motor {
+
+}

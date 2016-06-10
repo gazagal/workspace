@@ -1,0 +1,17 @@
+/**
+ * 
+ */
+package cl.curso.java.builder;
+
+import java.util.List;
+
+/**
+ * @author Gabriel Zagal
+ *
+ */
+public class Auto {
+	private String marca;
+	private String modelo;
+	private List<Ruedas> ruedas;
+	private GPS gps;
+}

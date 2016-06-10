@@ -1,0 +1,13 @@
+/**
+ * 
+ */
+package cl.curso.java.builder;
+
+/**
+ * @author Gabriel Zagal
+ *
+ */
+public class GPS {
+	private String os;
+	private String version;
+}
