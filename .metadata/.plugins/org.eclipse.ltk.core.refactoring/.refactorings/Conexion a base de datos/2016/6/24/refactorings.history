@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;cl.curso.java.gui.conexion&apos; to &apos;login-app/src/main/java/cl.curso.java.login_app&apos;&#x0D;&#x0A;- Original project: &apos;Conexion a base de datos&apos;&#x0D;&#x0A;- Destination element: &apos;login-app/src/main/java/cl.curso.java.login_app&apos;&#x0D;&#x0A;- Original element: &apos;Conexion a base de datos/src/cl.curso.java.gui.conexion&apos;" description="Copy package" destination="=login-app/src\/main\/java&lt;cl.curso.java.login_app" element1="/src&lt;cl.curso.java.gui.conexion" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1465397599662" version="1.0"/>
+</session>

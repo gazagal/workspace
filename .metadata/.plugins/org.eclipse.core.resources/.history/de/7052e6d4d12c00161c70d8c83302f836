@@ -1,0 +1,14 @@
+/**
+ * 
+ */
+package cl.curso.java.gui.conexion;
+
+/**
+ * @author Gabriel Zagal
+ *
+ */
+public final class UsuarioDAO {
+	
+	
+	
+}

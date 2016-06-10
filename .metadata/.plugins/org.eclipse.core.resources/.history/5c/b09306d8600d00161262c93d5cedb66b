@@ -1,0 +1,15 @@
+import javax.swing.SingleSelectionModel;
+
+public class Ejercicio1 {
+
+	public static void main(String[] args)
+	{
+		for( int contador = 0; contador < 11; contador++)
+		{
+			System.out.println(contador);
+		}
+	
+
+	}
+
+}

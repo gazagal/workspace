@@ -1,0 +1,15 @@
+/**
+ * 
+ */
+package cl.curso.java.abstract_factory_app;
+
+/**
+ * @author Gabriel Zagal
+ *
+ */
+public interface GUIBuilder {
+	public Window bildWindows(AbstractWidgetFactory factory){
+		return factory.
+	}
+	
+}

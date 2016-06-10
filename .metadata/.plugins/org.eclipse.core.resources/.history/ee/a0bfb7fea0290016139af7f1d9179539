@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package cl.curso.java.guia12.cinco;
+
+/**
+ * @author Gabriel Zagal
+ *
+ */
+public abstract class CuentaBancaria {
+
+}

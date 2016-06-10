@@ -1,0 +1,25 @@
+/**
+ * 
+ */
+package cl.curso.java.guia12.cinco;
+
+/**
+ * @author Gabriel Zagal
+ *
+ */
+public class CuentaVista extends CuentaBancaria {
+
+	/* (non-Javadoc)
+	 * @see cl.curso.java.guia12.cinco.CuentaBancaria#girarDinero(int)
+	 */
+	@Override
+	public void girarDinero(int monto) {
+		if(this.getSaldo()>= monto){
+			this.setSaldo(getSaldo()-monto);
+		}else{
+			System.out.println("Saldo insuficiente, saldo actual: "+this.getSaldo());
+		}
+
+	}
+
+}

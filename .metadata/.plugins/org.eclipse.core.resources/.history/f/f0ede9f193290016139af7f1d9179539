@@ -1,0 +1,14 @@
+/**
+ * 
+ */
+package cl.curso.java.guia12.tres;
+
+import java.util.List;
+
+/**
+ * @author Gabriel Zagal
+ *
+ */
+public class Playlist {
+	private List<Cancion> canciones;
+}
