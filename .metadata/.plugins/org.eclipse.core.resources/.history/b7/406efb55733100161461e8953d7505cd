@@ -1,0 +1,22 @@
+package cl.curso.java.prueba_tres.gzagal;
+
+import java.util.ArrayList;
+import java.util.List;
+
+/**
+ * @author Gabriel Zagal
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+    	List<Viaje> viajes = new ArrayList<Viaje>();
+        TarjetaBip tBip = new TarjetaBip(1234567890, 5000, viajes);
+    	
+        
+        
+        
+    	
+    }
+}

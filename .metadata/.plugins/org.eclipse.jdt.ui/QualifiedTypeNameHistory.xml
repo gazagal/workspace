@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="cl.curso.java.ejemplos.playlist.Cancion"/>
-<fullyQualifiedTypeName name="cl.curso.java.ejemplos.playlist.PlayList"/>
-<fullyQualifiedTypeName name="cl.curso.java.ejemplos.playlist.Usuario"/>
-<fullyQualifiedTypeName name="java.lang.Comparable"/>
-<fullyQualifiedTypeName name="java.util.stream.Collector"/>
-<fullyQualifiedTypeName name="cl.curso.java.guia12.uno.Producto"/>
-<fullyQualifiedTypeName name="cl.curso.java.guia12.uno.CarroDeCompra"/>
 <fullyQualifiedTypeName name="cl.curso.java.guia12.uno.Usuario"/>
 <fullyQualifiedTypeName name="java.util.LinkedList"/>
 <fullyQualifiedTypeName name="cl.curso.java.guia12.dos.Usuario"/>
@@ -37,8 +30,6 @@
 <fullyQualifiedTypeName name="cl.curso.java.control_cinco.gzagal.Departamento"/>
 <fullyQualifiedTypeName name="cl.curso.java.control_cinco.gzagal.Persona"/>
 <fullyQualifiedTypeName name="cl.curso.java.control_cinco.gzagal.Empleado"/>
-<fullyQualifiedTypeName name="java.util.List"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="cl.curso.java.control_cinco.gzagal.Empresa"/>
 <fullyQualifiedTypeName name="java.sql.Statement"/>
 <fullyQualifiedTypeName name="java.sql.ResultSet"/>
@@ -60,4 +51,13 @@
 <fullyQualifiedTypeName name="cl.curso.java.abstract_factory_app.GUIBuilder"/>
 <fullyQualifiedTypeName name="cl.curso.java.abstract_factory_app.MsWindowsWidgetFactory"/>
 <fullyQualifiedTypeName name="cl.curso.java.abstract_factory_app.MacOSXWidgetFactory"/>
+<fullyQualifiedTypeName name="cl.curso.java.builder.Auto"/>
+<fullyQualifiedTypeName name="cl.curso.java.builder.Motor"/>
+<fullyQualifiedTypeName name="cl.curso.java.builder.Ruedas"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="cl.curso.java.builder.GPS"/>
+<fullyQualifiedTypeName name="cl.curso.java.builder.Director"/>
+<fullyQualifiedTypeName name="cl.curso.java.builder.BuilderAutoToyota"/>
+<fullyQualifiedTypeName name="cl.curso.java.builder.BuilderAutoTesla"/>
 </qualifiedTypeNameHistroy>

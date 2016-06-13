@@ -1,0 +1,14 @@
+/**
+ * 
+ */
+package cl.curso.java.prueba_tres.gzagal;
+
+import java.util.Comparator;
+
+/**
+ * @author Gabriel Zagal
+ *
+ */
+public class Viaje implements Comparator<T> {
+
+}
