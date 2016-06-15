@@ -7,8 +7,6 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-import javax.swing.JOptionPane;
-
 /**
  * @author Gabriel Zagal
  *
@@ -22,6 +20,13 @@ public final class UsuarioDAO {
 		ps.setString(2, usuario.getPassword());
 		ResultSet rs = ps.executeQuery();
 		return rs.next();
+	}
+	
+	public static void aumentarIntentos(Usuario usuario) throws CuentaBloqueadaException{
+		if (usuario.getIntentosFallidos() >= 3) {
+			throw new CuentaBloqueadaException("La cuenta ha sido bloqueada");
+		}
+		usuario.setIntentosFallidos(usuario.getIntentosFallidos()+1);
 	}
 	
 }

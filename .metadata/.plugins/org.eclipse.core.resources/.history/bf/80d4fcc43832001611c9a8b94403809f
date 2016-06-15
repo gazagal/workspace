@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package cl.curso.java.composite;
+
+/**
+ * @author Gabriel Zagal
+ *
+ */
+public abstract class Menu {
+
+}

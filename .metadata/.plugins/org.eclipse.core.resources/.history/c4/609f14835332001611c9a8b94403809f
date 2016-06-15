@@ -1,0 +1,19 @@
+/**
+ * 
+ */
+package cl.curso.java.decorador;
+
+/**
+ * @author Gabriel Zagal
+ *
+ */
+public class PizzaDecorador extends Pizza{
+
+	@Override
+	public void cocinarPizza() {
+		
+	}
+
+}
+
+

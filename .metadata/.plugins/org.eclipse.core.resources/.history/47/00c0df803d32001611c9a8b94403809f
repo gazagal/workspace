@@ -1,0 +1,19 @@
+package cl.curso.java.composite;
+
+import java.util.ArrayList;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        SubMenu menu = new SubMenu("File",new ArrayList<Menu>());
+        menu.getMenus().add(new ItemMenu("Open File", ""));
+    	
+    	
+    	
+    }
+}

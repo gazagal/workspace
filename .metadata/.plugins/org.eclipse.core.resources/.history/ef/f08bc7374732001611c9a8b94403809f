@@ -1,0 +1,22 @@
+/**
+ * 
+ */
+package cl.curso.java.adapter;
+
+/**
+ * @author Gabriel Zagal
+ *
+ */
+public class GuitarraAcustica {
+	public GuitarraAcustica() {
+	}
+	
+	public void tocar(){
+		
+	}
+	
+	public void dejarDeTocar(){
+		
+	}
+	
+}

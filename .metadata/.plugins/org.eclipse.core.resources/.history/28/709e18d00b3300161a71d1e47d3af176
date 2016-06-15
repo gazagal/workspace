@@ -1,0 +1,30 @@
+/**
+ * 
+ */
+package cl.curso.java.ejemplos.observer;
+
+/**
+ * @author Gabriel Zagal
+ *
+ */
+public class SensorHumedad extends Sensor {
+
+	@Override
+	public void notificar() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void agregar(Observador observador) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void eliminar(Observador observador) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

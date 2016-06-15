@@ -1308,3 +1308,319 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Failure to fin
 2016-06-13 10:45:08,630 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\gzagal\src\main\resources
 2016-06-13 10:45:08,631 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-06-13 10:45:08,631 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\gzagal\src\test\resources
+2016-06-14 09:53:04,870 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 09:53:04,885 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\abstract-factory-app\src\main\resources
+2016-06-14 09:53:04,888 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 09:53:04,912 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\abstract-factory-app\src\test\resources
+2016-06-14 10:01:11,608 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\pom.xml
+2016-06-14 10:01:17,766 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cl.curso.java:composite:0.0.1-SNAPSHOT @ C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\pom.xml.
+2016-06-14 10:01:19,511 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /composite/src/main/java
+2016-06-14 10:01:19,519 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /composite/src/test/java
+2016-06-14 10:01:20,015 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2016-06-14 10:01:20,792 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:01:20,792 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-14 10:01:20,794 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:01:20,794 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-14 10:01:58,361 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:01:58,362 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-14 10:01:58,363 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:01:58,363 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-14 10:03:28,864 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:03:28,864 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-14 10:03:28,867 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:03:28,868 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-14 10:03:48,140 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:03:48,140 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-14 10:03:48,142 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:03:48,142 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-14 10:04:04,537 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:04:04,537 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-14 10:04:04,539 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:04:04,539 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-14 10:05:06,702 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:05:06,702 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-14 10:05:06,704 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:05:06,705 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-14 10:06:00,676 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:06:00,676 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-14 10:06:00,679 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:06:00,680 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-14 10:06:32,324 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:06:32,324 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-14 10:06:32,326 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:06:32,327 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-14 10:07:08,685 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:07:08,686 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-14 10:07:08,687 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:07:08,688 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-14 10:25:16,984 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:25:16,985 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-14 10:25:16,987 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:25:16,987 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-14 10:30:35,038 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:30:35,039 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-14 10:30:35,044 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:30:35,045 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-14 10:35:41,368 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:35:41,369 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-14 10:35:41,371 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:35:41,371 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-14 10:37:21,955 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:37:21,956 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-14 10:37:21,957 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:37:21,958 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-14 10:38:40,838 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:38:40,838 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-14 10:38:40,839 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:38:40,840 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-14 10:39:46,240 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:39:46,241 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-14 10:39:46,242 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:39:46,242 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-14 10:41:40,576 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:41:40,576 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-14 10:41:40,577 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:41:40,578 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-14 11:39:32,268 [Worker-34] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\adapter\pom.xml
+2016-06-14 11:39:35,102 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cl.curso.java:adapter:0.0.1-SNAPSHOT @ C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\adapter\pom.xml.
+2016-06-14 11:39:35,849 [Worker-34] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /adapter/src/main/java
+2016-06-14 11:39:35,878 [Worker-34] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /adapter/src/test/java
+2016-06-14 11:39:36,846 [Worker-34] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2016-06-14 11:39:38,850 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 11:39:38,851 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\adapter\src\main\resources
+2016-06-14 11:39:38,853 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 11:39:38,853 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\adapter\src\test\resources
+2016-06-14 11:40:30,187 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 11:40:30,187 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\adapter\src\main\resources
+2016-06-14 11:40:30,189 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 11:40:30,189 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\adapter\src\test\resources
+2016-06-14 11:42:21,006 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 11:42:21,006 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\adapter\src\main\resources
+2016-06-14 11:42:21,008 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 11:42:21,008 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\adapter\src\test\resources
+2016-06-14 11:42:44,928 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 11:42:44,928 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\adapter\src\main\resources
+2016-06-14 11:42:44,929 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 11:42:44,930 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\adapter\src\test\resources
+2016-06-14 11:43:01,695 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 11:43:01,696 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\adapter\src\main\resources
+2016-06-14 11:43:01,697 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 11:43:01,697 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\adapter\src\test\resources
+2016-06-14 11:45:05,527 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 11:45:05,529 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\adapter\src\main\resources
+2016-06-14 11:45:05,536 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 11:45:05,537 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\adapter\src\test\resources
+2016-06-14 11:45:50,176 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 11:45:50,176 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\adapter\src\main\resources
+2016-06-14 11:45:50,178 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 11:45:50,178 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\adapter\src\test\resources
+2016-06-14 11:46:54,536 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 11:46:54,536 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\adapter\src\main\resources
+2016-06-14 11:46:54,539 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 11:46:54,539 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\adapter\src\test\resources
+2016-06-14 11:48:47,059 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 11:48:47,060 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\adapter\src\main\resources
+2016-06-14 11:48:47,061 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 11:48:47,061 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\adapter\src\test\resources
+2016-06-14 12:17:52,639 [Worker-41] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\facade\pom.xml
+2016-06-14 12:17:52,774 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cl.curso.java:facade:0.0.1-SNAPSHOT @ C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\facade\pom.xml.
+2016-06-14 12:17:53,012 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /facade/src/main/java
+2016-06-14 12:17:53,019 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /facade/src/test/java
+2016-06-14 12:17:53,083 [Worker-41] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2016-06-14 12:17:53,550 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 12:17:53,550 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\facade\src\main\resources
+2016-06-14 12:17:53,552 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 12:17:53,552 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\facade\src\test\resources
+2016-06-14 12:36:12,836 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 12:36:12,837 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\login-app\src\main\resources
+2016-06-14 12:36:12,838 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 12:36:12,838 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\login-app\src\test\resources
+2016-06-14 12:46:13,341 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 12:46:13,342 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\login-app\src\main\resources
+2016-06-14 12:46:13,343 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 12:46:13,344 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\login-app\src\test\resources
+2016-06-14 12:46:46,637 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 12:46:46,638 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\login-app\src\main\resources
+2016-06-14 12:46:46,639 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 12:46:46,640 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\login-app\src\test\resources
+2016-06-14 12:49:02,262 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 12:49:02,263 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\login-app\src\main\resources
+2016-06-14 12:49:02,263 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 12:49:02,263 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\login-app\src\test\resources
+2016-06-14 12:49:48,449 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 12:49:48,449 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\login-app\src\main\resources
+2016-06-14 12:49:48,451 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 12:49:48,452 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\login-app\src\test\resources
+2016-06-14 12:50:10,907 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 12:50:10,907 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\login-app\src\main\resources
+2016-06-14 12:50:10,908 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 12:50:10,909 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\login-app\src\test\resources
+2016-06-14 12:50:21,688 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 12:50:21,689 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\login-app\src\main\resources
+2016-06-14 12:50:21,691 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 12:50:21,691 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\login-app\src\test\resources
+2016-06-14 13:03:14,885 [Worker-59] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\decorador\pom.xml
+2016-06-14 13:03:15,007 [Worker-59] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cl.curso.java:decorador:0.0.1-SNAPSHOT @ C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\decorador\pom.xml.
+2016-06-14 13:03:15,205 [Worker-59] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /decorador/src/main/java
+2016-06-14 13:03:15,212 [Worker-59] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /decorador/src/test/java
+2016-06-14 13:03:15,264 [Worker-59] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2016-06-14 13:03:15,654 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 13:03:15,654 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\decorador\src\main\resources
+2016-06-14 13:03:15,657 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 13:03:15,658 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\decorador\src\test\resources
+2016-06-14 13:03:52,549 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 13:03:52,549 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\decorador\src\main\resources
+2016-06-14 13:03:52,550 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 13:03:52,550 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\decorador\src\test\resources
+2016-06-14 13:04:55,173 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 13:04:55,173 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\decorador\src\main\resources
+2016-06-14 13:04:55,174 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 13:04:55,174 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\decorador\src\test\resources
+2016-06-14 13:05:15,243 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 13:05:15,243 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\decorador\src\main\resources
+2016-06-14 13:05:15,244 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 13:05:15,244 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\decorador\src\test\resources
+2016-06-14 13:05:30,248 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 13:05:30,249 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\decorador\src\main\resources
+2016-06-14 13:05:30,250 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 13:05:30,250 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\decorador\src\test\resources
+2016-06-14 13:07:08,325 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 13:07:08,326 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\decorador\src\main\resources
+2016-06-14 13:07:08,327 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 13:07:08,327 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\decorador\src\test\resources
+2016-06-14 13:08:04,674 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 13:08:04,675 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\decorador\src\main\resources
+2016-06-14 13:08:04,676 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 13:08:04,676 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\decorador\src\test\resources
+2016-06-14 13:12:56,672 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 13:12:56,672 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\decorador\src\main\resources
+2016-06-14 13:12:56,673 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 13:12:56,674 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\decorador\src\test\resources
+2016-06-14 13:14:54,638 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 13:14:54,640 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\decorador\src\main\resources
+2016-06-14 13:14:54,644 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 13:14:54,645 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\decorador\src\test\resources
+2016-06-14 13:17:02,934 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 13:17:02,934 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\decorador\src\main\resources
+2016-06-14 13:17:02,935 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 13:17:02,935 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\decorador\src\test\resources
+2016-06-14 13:19:40,779 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 13:19:40,780 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\decorador\src\main\resources
+2016-06-14 13:19:40,781 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 13:19:40,781 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\decorador\src\test\resources
+2016-06-14 13:21:30,510 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 13:21:30,510 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\decorador\src\main\resources
+2016-06-14 13:21:30,512 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 13:21:30,512 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\decorador\src\test\resources
+2016-06-14 13:21:57,093 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 13:21:57,093 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\decorador\src\main\resources
+2016-06-14 13:21:57,095 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 13:21:57,095 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\decorador\src\test\resources
+2016-06-14 13:22:21,775 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 13:22:21,775 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\decorador\src\main\resources
+2016-06-14 13:22:21,777 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 13:22:21,777 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\decorador\src\test\resources
+2016-06-14 13:25:19,056 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 13:25:19,057 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\decorador\src\main\resources
+2016-06-14 13:25:19,059 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 13:25:19,059 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\decorador\src\test\resources
+2016-06-14 13:25:27,997 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 13:25:27,997 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\decorador\src\main\resources
+2016-06-14 13:25:27,999 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 13:25:27,999 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\decorador\src\test\resources
+2016-06-15 10:19:48,433 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:19:48,479 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-15 10:19:48,479 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:19:48,479 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-15 10:23:12,589 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:23:12,589 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-15 10:23:12,589 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:23:12,589 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-15 10:24:17,958 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:24:17,958 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-15 10:24:17,958 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:24:17,958 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-15 10:24:41,567 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:24:41,567 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-15 10:24:41,567 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:24:41,567 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-15 10:25:48,812 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:25:48,812 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-15 10:25:48,812 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:25:48,812 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-15 10:26:04,572 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:26:04,572 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-15 10:26:04,587 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:26:04,587 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-15 10:26:36,107 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:26:36,107 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-15 10:26:36,107 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:26:36,107 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-15 10:27:11,863 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:27:11,863 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-15 10:27:11,863 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:27:11,863 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-15 10:28:56,565 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:28:56,580 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-15 10:28:56,580 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:28:56,580 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-15 10:31:19,016 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:31:19,016 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-15 10:31:19,016 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:31:19,016 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-15 10:31:35,300 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:31:35,300 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-15 10:31:35,315 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:31:35,315 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-15 10:32:20,681 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:32:20,681 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-15 10:32:20,681 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:32:20,681 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-15 10:32:52,180 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:32:52,180 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-15 10:32:52,180 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:32:52,180 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-15 10:33:25,659 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:33:25,659 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-15 10:33:25,659 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:33:25,659 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-15 10:33:37,634 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:33:37,634 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-15 10:33:37,634 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:33:37,634 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-15 10:34:27,697 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:34:27,697 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-15 10:34:27,697 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:34:27,697 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-15 10:35:45,843 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:35:45,843 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-15 10:35:45,843 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:35:45,843 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-15 10:36:06,647 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:36:06,647 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-15 10:36:06,647 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:36:06,647 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-15 10:36:20,954 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:36:20,954 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-15 10:36:20,954 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:36:20,954 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-15 10:41:08,078 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:41:08,078 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-15 10:41:08,078 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:41:08,078 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-15 10:42:12,960 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:42:12,960 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-15 10:42:12,960 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:42:12,960 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-15 10:42:22,852 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:42:22,852 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-15 10:42:22,852 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:42:22,852 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-15 10:42:50,839 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:42:50,839 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-15 10:42:50,839 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:42:50,839 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources
+2016-06-15 10:47:16,562 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:47:16,562 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\main\resources
+2016-06-15 10:47:16,562 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 10:47:16,562 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Curso Java Gabriel Zagal\Workspace\composite\src\test\resources

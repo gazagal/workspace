@@ -1,0 +1,5 @@
+package cl.curso.java.adapter;
+
+public interface Guitarra {
+
+}

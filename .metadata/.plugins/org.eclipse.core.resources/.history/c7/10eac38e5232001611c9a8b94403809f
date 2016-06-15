@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package cl.curso.java.decorador;
+
+/**
+ * @author Gabriel Zagal
+ *
+ */
+public class PizzaDecorador {
+
+}

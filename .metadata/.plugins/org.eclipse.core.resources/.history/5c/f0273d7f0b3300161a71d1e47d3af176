@@ -1,0 +1,14 @@
+/**
+ * 
+ */
+package cl.curso.java.ejemplos.observer;
+
+import java.util.List;
+
+/**
+ * @author Gabriel Zagal
+ *
+ */
+public abstract class Sensor {
+	private List<Observador> observadores;
+}

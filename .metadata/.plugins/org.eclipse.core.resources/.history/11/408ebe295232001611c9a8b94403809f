@@ -1,0 +1,21 @@
+/**
+ * 
+ */
+package cl.curso.java.decorador;
+
+/**
+ * @author Gabriel Zagal
+ *
+ */
+public class PizzaMasaTradicional extends Pizza {
+
+	/* (non-Javadoc)
+	 * @see cl.curso.java.decorador.Pizza#cocinarPizza()
+	 */
+	@Override
+	public void cocinarPizza() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

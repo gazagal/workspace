@@ -5,8 +5,6 @@
  */
 package cl.curso.java.login_app;
 
-import java.sql.SQLException;
-
 /**
  * @author Juan Maldonado León
  *
@@ -77,22 +75,5 @@ public class Usuario {
 		this.intentosFallidos = intentosFallidos;
 	}
 
-	/**
-	 * 
-	 * @throws AutenticacionException
-	 * @throws CuentaBloqueadaException
-	 * @throws SQLException 
-	 */
-	public void login() throws AutenticacionException, CuentaBloqueadaException, SQLException {
-		
-
-		if (this.getIntentosFallidos() >= 3) {
-			throw new CuentaBloqueadaException("La cuenta ha sido bloqueada");
-		}
-		if (!(UsuarioDAO.validar(this))) {
-			this.intentosFallidos++;
-			throw new AutenticacionException("Usuario y/o Pass incorrectos");
-		}
-
-	}
+	
 }

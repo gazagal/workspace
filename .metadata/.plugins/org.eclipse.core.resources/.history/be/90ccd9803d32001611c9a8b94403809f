@@ -1,0 +1,21 @@
+/**
+ * 
+ */
+package cl.curso.java.composite;
+
+/**
+ * @author Gabriel Zagal
+ *
+ */
+public class LineaSeparadora extends Menu {
+
+	/* (non-Javadoc)
+	 * @see cl.curso.java.composite.Menu#pintarMenu()
+	 */
+	@Override
+	public void pintarMenu() {
+		// TODO Auto-generated method stub
+
+	}
+
+}
