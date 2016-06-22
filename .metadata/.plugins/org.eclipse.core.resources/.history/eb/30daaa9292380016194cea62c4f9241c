@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package cl.curso.java.ayudantia.tres_adapter;
+
+/**
+ * @author Gabriel Zagal
+ *
+ */
+public class ReproductorMP3 implements ReproductorMultimedia {
+
+	/* (non-Javadoc)
+	 * @see cl.curso.java.ayudantia.tres_adapter.ReproductorMultimedia#reproducir()
+	 */
+	public void reproducir() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

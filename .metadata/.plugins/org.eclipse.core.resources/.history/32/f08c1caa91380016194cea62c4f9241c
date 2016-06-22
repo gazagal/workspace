@@ -1,0 +1,21 @@
+/**
+ * 
+ */
+package cl.curso.java.ayudantia.tres_adapter;
+
+/**
+ * @author Gabriel Zagal
+ *
+ */
+public class ReproductorMP4 extends CodecMultimedia {
+
+	/* (non-Javadoc)
+	 * @see cl.curso.java.ayudantia.tres_adapter.CodecMultimedia#reproducirMultimedia()
+	 */
+	@Override
+	public void reproducirMultimedia() {
+		// TODO Auto-generated method stub
+
+	}
+
+}
