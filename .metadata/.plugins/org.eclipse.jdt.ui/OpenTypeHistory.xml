@@ -11,4 +11,5 @@
 <typeInfo handle="=gzagal/C:\/Program Files\/Java\/jdk1.8.0_73\/jre\/lib\/rt.jar&lt;java.lang(Comparable.class[Comparable" modifiers="1537" timestamp="1461857690325"/>
 <typeInfo handle="=gzagal/C:\/Program Files\/Java\/jdk1.8.0_73\/jre\/lib\/rt.jar&lt;java.util(Comparator.class[Comparator" modifiers="1537" timestamp="1461857690325"/>
 <typeInfo handle="=adapter/src\/main\/java&lt;cl.curso.java.adapter{Guitarra.java[Guitarra" modifiers="513" timestamp="1465919105375"/>
+<typeInfo handle="=composite/src\/main\/java&lt;cl.curso.java.composite{Command.java[Command" modifiers="513" timestamp="1466000657723"/>
 </typeInfoHistroy>

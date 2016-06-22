@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="cl.curso.java.guia12.tres.Cancion"/>
-<fullyQualifiedTypeName name="cl.curso.java.guia12.tres.Playlist"/>
-<fullyQualifiedTypeName name="java.util.Collection"/>
-<fullyQualifiedTypeName name="cl.curso.java.guia12.cuatro.Evento"/>
-<fullyQualifiedTypeName name="cl.curso.java.guia12.cuatro.Agenda"/>
-<fullyQualifiedTypeName name="java.lang.ClassNotFoundException"/>
-<fullyQualifiedTypeName name="java.sql.DriverManager"/>
-<fullyQualifiedTypeName name="com.mysql.jdbc.Connection"/>
-<fullyQualifiedTypeName name="java.sql.Connection"/>
-<fullyQualifiedTypeName name="java.sql.SQLException"/>
-<fullyQualifiedTypeName name="java.awt.Transparency"/>
-<fullyQualifiedTypeName name="cl.curso.java.control_cinco.gzagal.Transaccion"/>
 <fullyQualifiedTypeName name="cl.curso.java.control_cinco.gzagal.CuentaBancaria"/>
 <fullyQualifiedTypeName name="java.util.Comparator"/>
 <fullyQualifiedTypeName name="cl.curso.java.control_cinco.gzagal.EmpleadoNoEncontradoException"/>
@@ -53,11 +41,23 @@
 <fullyQualifiedTypeName name="cl.curso.java.prueba_tres.gzagal.TarjetaBip"/>
 <fullyQualifiedTypeName name="cl.curso.java.prueba_tres.gzagal.PagarViaje"/>
 <fullyQualifiedTypeName name="java.lang.Thread"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="cl.curso.java.composite.ItemMenu"/>
 <fullyQualifiedTypeName name="cl.curso.java.composite.SubMenu"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="cl.curso.java.composite.LineaSeparadora"/>
 <fullyQualifiedTypeName name="cl.curso.java.adapter.GuitarraAcustica"/>
 <fullyQualifiedTypeName name="cl.curso.java.adapter.GuitarraElectricaAcustica"/>
+<fullyQualifiedTypeName name="cl.curso.java.composite.ComandoNulo"/>
+<fullyQualifiedTypeName name="cl.curso.java.composite.ComandoAbrir"/>
+<fullyQualifiedTypeName name="cl.curso.java.composite.ComandoCerrar"/>
+<fullyQualifiedTypeName name="cl.curso.java.composite.Command"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="cl.curso.java.ayudantia.Configuracion"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="cl.curso.java.ayudantia.dos_composite.Directorio"/>
+<fullyQualifiedTypeName name="cl.rized.rized.core.CuentaBloqueadaException"/>
+<fullyQualifiedTypeName name="cl.rized.rized.facade.UsuarioFacade"/>
+<fullyQualifiedTypeName name="cl.rized.rized.core.Usuario"/>
+<fullyQualifiedTypeName name="org.apache.log4j.Logger"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
 </qualifiedTypeNameHistroy>

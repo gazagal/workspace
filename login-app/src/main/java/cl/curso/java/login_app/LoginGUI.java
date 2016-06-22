@@ -15,6 +15,7 @@ import javax.swing.JPanel;
 import javax.swing.JTextField;
 import javax.swing.border.EmptyBorder;
 
+
 public class LoginGUI extends JFrame {
 
 	private static final long serialVersionUID = 6814847342458132255L;

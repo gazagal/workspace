@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>RIZED</title>
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/login.css" rel="stylesheet">
+</head>
+<body>
+	<div class="container">	
+	<form method="post" action="login" class="form-signin">
+		<h2 class="form-signin-heading">Iniciar sesion</h2>
+		
+		<label for="inputUsuario" class="sr-only">Ingrese usuario</label>
+		<input name="nombre_usuario" type="text" id="inputUsuario" class="form-control" placeholder="Nombre de Usuario">
+		
+		<label for="inputPassword" class="sr-only">Ingrese Password</label>	
+		<input name="password" type="password" id="inputPassword" class="form-control" placeholder="Contraseña">
+
+		<button class="btn btn-lg btn-primary btn-block" type="submit">Ingresar</button>
+	</form>
+	</div>
+
+</body>
+</html>

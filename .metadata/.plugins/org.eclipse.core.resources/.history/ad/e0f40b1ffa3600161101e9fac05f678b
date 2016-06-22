@@ -1,0 +1,21 @@
+/**
+ * 
+ */
+package cl.curso.java.ayudantia.dos_composite;
+
+/**
+ * @author Gabriel Zagal
+ *
+ */
+public class Archivo extends Directorio {
+
+	/* (non-Javadoc)
+	 * @see cl.curso.java.ayudantia.dos_composite.Directorio#calcularPeso()
+	 */
+	@Override
+	public void calcularPeso() {
+		// TODO Auto-generated method stub
+
+	}
+
+}
